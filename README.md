@@ -64,10 +64,3 @@ My Current Primary Stack includes <b>React, Typescript, Sass, Express, Git, Figm
 <p align="left">
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/adobe-xd-4238659-3516532.png" alt="illustrator" width="40" height="40"/> </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekadhikari23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekadhikari23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sairyonodevs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sairyonodevs" /></a></p><br><br>
-
