@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aniket Datta</h1>
+<h1 align="center">Hey 👋, Aniket Datta here</h1>
 <h3 align="center">Human, Student, Developer busy exploring the madness of life.</h3>
 
 - 🌱 I’m currently exploring the scopes in the magical realm of **React** and also learning the **Ionic Framework**
