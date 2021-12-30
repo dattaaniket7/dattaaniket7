@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
-- 📫 How to reach me **[hello@aniketdatta.rocks](mailto:hello@aniketdatta.rocks)**
+- 📫 How to reach me **[datta.aniket7@gmail.com](mailto:datta.aniket7@gmail.com)**
 
 - 📄 Know about my experiences **[My Resume](https://cdn.sairyonodevs.in/Aniket-Datta-Resume.pdf)**
 
